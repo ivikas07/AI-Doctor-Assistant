@@ -1,0 +1,9 @@
+gradio
+python-dotenv
+pydub
+gtts
+elevenlabs
+groq
+pydub
+ffmpeg
+elevenlabs

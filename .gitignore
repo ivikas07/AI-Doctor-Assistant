@@ -1,0 +1,9 @@
+myenv/
+.env
+__pycache__/
+*.pyc
+.gradio/
+final.mp3
+final.wav
+Medical_Report_*.pdf
+medical_report.pdf
